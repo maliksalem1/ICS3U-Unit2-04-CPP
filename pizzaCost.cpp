@@ -27,7 +27,7 @@ int main() {
 
     // Output
     std::cout << "The final cost is: $" << std::fixed
-              << std::setprecision(2) << std::setfill('0') << total << std::endl;
+            << std::setprecision(2) << std::setfill('0') << total << std::endl;
     std::cout << std::endl;
 
     std::cout << "Done." << std::endl;
